@@ -5,7 +5,7 @@ I'm a Data Scientist, Writer and Lifelong Learner.
 ## Things I've built
 
 * [Whatcar.xyz](https://www.whatcar.xyz/) a Deep Learning classifier for Australian cars ([inference source](https://github.com/EdwardJRoss/whatcar)).
-* A system for extracting and cleaning [Austrlian job ads from Common Crawl](https://github.com/EdwardJRoss/job-advert-analysis).
+* A system for extracting and cleaning [Australian job ads from Common Crawl](https://github.com/EdwardJRoss/job-advert-analysis).
 
 ## Things I've written about
 
